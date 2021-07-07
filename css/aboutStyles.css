@@ -1,0 +1,37 @@
+body {
+  background-color: #ffe4e1;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: grey;;
+  width: 5%;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h2 {
+  color: #66BFBF;
+}
+
+p {
+  font-family: cursive;
+}
+
+img {
+  border-radius: 100%;
+}
+
+img:hover {
+  background-color: gold;
+}
+
+
+/**********Class**********/
